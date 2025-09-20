@@ -1,0 +1,23 @@
+.time-form {
+    display: flex;
+    gap: 30px;
+}
+
+.form-label {
+    display: flex;
+    flex-direction: column;
+
+    width: 150px;
+    gap: 10px;
+}
+
+.form-button {
+    align-self: flex-end;
+    background-color: transparent;
+    width: 140px;
+    height: 30px;
+}
+
+.input {
+    height: 30px;
+}
